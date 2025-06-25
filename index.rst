@@ -3,7 +3,7 @@ How to Activate the TNT App on TV Using TNTDrama.com/activate
 
 TNTDrama.com/activate is the official website to start watching TNT on your smart TV or streaming device. This is the official website to activate the TNT Drama app.Whether you have a Roku, Fire TV, Apple TV, Android TV, or Xbox, this simple guide will walk you through the steps. No tech skills needed just follow along, and you’ll be enjoying your favorite TNT shows and movies in minutes.
 
-.. image:: get.png
+.. image:: activate.png
    :alt: TNTDrama Activation Screenshot
    :target: https://fm.ci/?aHR0cHM6Ly90bnRkcmFtYS1oZWxwY2VudGVyLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
    :align: center
