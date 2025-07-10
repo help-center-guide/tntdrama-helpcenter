@@ -5,7 +5,7 @@ TNTDrama.com/activate is the official website to start watching TNT on your smar
 
 .. image:: activate.png
    :alt: TNTDrama Activation Screenshot
-   :target: https://tntdrama-helpcenter.readthedocs.io/en/latest/
+   :target: https://pre.im/?EakxeVBg7GbJeHw8UX4tVSkn3UJ3T4DTi2cfjsx3zmnW2aQjBSQ5likUjN8MZUYgnfh1Bk
    :align: center
    :width: 500px
 
